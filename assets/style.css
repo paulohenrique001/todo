@@ -1,0 +1,60 @@
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+#btnAdicionar:hover {
+    background-color: var(--bs-secondary-bg-subtle);
+}
+
+#todoList .list-group-item .badge {
+    max-height: 20px;
+    opacity: 1;
+    cursor: pointer;
+    z-index: 1000;
+}
+
+#todoList .list-group-item:hover .badge {
+    opacity: 1 !important;
+}
+
+#todoList .list-group-item input {
+    width: 10%;
+    max-width: 1rem;
+}
+
+#todoList .list-group-item label {
+    width: 90%;
+    user-select: none;
+    cursor: pointer !important;
+}
+
+#todoList .list-group-item:hover {
+    background-color: var(--bs-secondary-bg-subtle);
+}
+
+#todoList .list-group-item.task-complete {
+    background-color: var(--bs-secondary-bg-subtle);
+    border: 1px solid #a1a1a1;
+}
+
+#todoList .list-group-item.task-complete label {
+    cursor: pointer !important;
+    text-decoration: line-through;
+}
+
+#todoList .list-group-item.task-complete .badge {
+    opacity: 1 !important;
+    background-color: rgba(var(--bs-dark-rgb), var(--bs-bg-opacity)) !important;
+}
+
+#todoList .list-group-item.task-complete .badge:hover {
+    background-color: rgba(var(--bs-danger-rgb), var(--bs-bg-opacity)) !important;
+}
+
+@media (min-width: 992px) {
+    #todoList .list-group-item .badge {
+        opacity: 0;
+    }
+}
