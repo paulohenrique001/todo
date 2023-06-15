@@ -1,4 +1,4 @@
-# MyDO v1.0 - Lista de Tarefas
+# MyDO v1.1 - Lista de Tarefas
 Este projeto foi desenvolvido com o objetivo de aplicar conceitos básicos de desenvolvimento web durante a mentoria da [Soften Sistemas][link_soften_sistemas] em 2023. O aplicativo de lista de tarefas foi desenvolvido utilizando [HTML][link_html], [CSS][link_css], [JavaScript][link_javascript] e [Bootstrap 5][link_bootstrap5]. 
 
 | Visão Geral |
