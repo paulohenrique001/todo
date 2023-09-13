@@ -1,5 +1,7 @@
-# MyDO v1.1 - Lista de Tarefas
+# [MyDO v1.1][link_mydo] - Lista de Tarefas
 Este projeto foi desenvolvido com o objetivo de aplicar conceitos básicos de desenvolvimento web durante a mentoria da [Soften Sistemas][link_soften_sistemas] em 2023. O aplicativo de lista de tarefas foi desenvolvido utilizando [HTML][link_html], [CSS][link_css], [JavaScript][link_javascript] e [Bootstrap 5][link_bootstrap5]. 
+
+Experimente o MyDO: – [https://paulohenrique001.github.io/mydo][link_mydo]
 
 | Visão Geral |
 |----------|
@@ -17,6 +19,7 @@ A aplicação foi desenvolvida com responsividade, tornando-a compatível tanto 
 - Responsivo para desktop e mobile
 - Adiciona tarefas com a tecla de atalho 'ENTER'
 
+[link_mydo]: <https://paulohenrique001.github.io/mydo/>
 [link_soften_sistemas]: <https://www.softensistemas.com.br/>
 [link_html]: <https://www.w3schools.com/html/default.asp>
 [link_css]: <https://www.w3schools.com/css/default.asp>
