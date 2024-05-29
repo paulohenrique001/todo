@@ -19,7 +19,7 @@ A aplicação foi desenvolvida com responsividade, tornando-a compatível tanto 
 - Responsivo para desktop e mobile
 - Adiciona tarefas com a tecla de atalho 'ENTER'
 
-[link_mydo]: <https://paulohenrique001.github.io/mydo/>
+[link_mydo]: <https://paulohenrique001.github.io/todo/>
 [link_soften_sistemas]: <https://www.softensistemas.com.br/>
 [link_html]: <https://www.w3schools.com/html/default.asp>
 [link_css]: <https://www.w3schools.com/css/default.asp>
